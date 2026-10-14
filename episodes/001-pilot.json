@@ -1,0 +1,70 @@
+{
+  "id": "runadventures-001-pilot",
+  "title": "The First Cub",
+  "duration_seconds": 30,
+  "format": "linear_prerendered_video",
+  "viewer_activity": "jog_in_place",
+  "camera": {
+    "perspective": "first_person",
+    "height_m": 1.7,
+    "comfort": "smooth_no_abrupt_turns"
+  },
+  "target_output": {
+    "resolution": "3840x2160",
+    "fps": 60
+  },
+  "hud": {
+    "mission": "Rescue the five cubs",
+    "progress_start": 0,
+    "progress_end": 1
+  },
+  "beats": [
+    {
+      "start": 0,
+      "end": 5,
+      "type": "hook",
+      "visual": "Original hyena runs across savanna carrying a cub; majestic landscape reveals",
+      "hud": "RESCUE THE CUB!",
+      "audio": "Wildlife ambience; threat motif"
+    },
+    {
+      "start": 5,
+      "end": 15,
+      "type": "run",
+      "visual": "Continuous first person jogging pursuit on a gently curving savanna trail",
+      "hud": "Cubs 0/5",
+      "audio": "Footfalls and subtle rising score"
+    },
+    {
+      "start": 15,
+      "end": 22,
+      "type": "exercise_stop",
+      "visual": "Camera eases to a full stop by a sheltered cub; visual demo for optional shallow squat and forward reach",
+      "hud": "STOP • SHALLOW SQUAT + REACH • OR STAND AND REACH",
+      "audio": "Voice cue and gentle countdown"
+    },
+    {
+      "start": 22,
+      "end": 27,
+      "type": "reward",
+      "visual": "Scripted rescue animation; cub retreats safely; success particles kept subtle",
+      "hud": "Cubs 1/5",
+      "audio": "Short success stinger"
+    },
+    {
+      "start": 27,
+      "end": 30,
+      "type": "transition",
+      "visual": "Camera resumes smooth jogging; next hyena calls in distance",
+      "hud": "NEXT: WATERFALL FOREST",
+      "audio": "Distant hyena call"
+    }
+  ],
+  "constraints": [
+    "No movement detection; all events are timed",
+    "No exercise moves while virtual camera is running",
+    "No Disney characters, music or recognizable shots",
+    "Use real licensed 3D assets, not 2D substitutes",
+    "Prototype quality must be judged from an actual GPU render"
+  ]
+}
