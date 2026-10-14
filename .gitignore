@@ -1,0 +1,20 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+# Output videos and heavyweight temporary images
+renders/
+output/
+*.mp4
+*.mov
+*.exr
+# Secrets
+.env
+.env.*
+*.pem
+__pycache__/
+*.pyc
