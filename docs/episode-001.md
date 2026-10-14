@@ -33,3 +33,24 @@ Build original names, characters, story beats, set dressing, sound and music. Re
 - Stationary exercise pause duration
 - Animal animation licensing and quality
 - GPU rendering cost per minute
+
+## Gameplay-like video direction — no viewer input required
+The final work is a **scripted YouTube video**, not a playable game. It should nevertheless create a strong **illusion of game progression** through consistent HUD, visible missions, a 0/5 cub tracker, objective markers, sound cues, collectible discoveries and elaborate rescue animations.
+
+### Core viewing loop
+1. **Hook (first 5 seconds):** spectacular savanna vista, visible hyena threat and the headline objective 'Rescue 5 cubs'.
+2. **Jogging exploration:** continuous first-person path with clearly telegraphed environmental reveals and new sights.
+3. **Encounter:** hints of a cub, hyenas, a small environmental hazard or clue; audio changes to raise anticipation.
+4. **Exercise checkpoint:** the on-screen hero slows and comes to a full stop; an optional controlled squat/reach or stationary action is shown with a clear countdown.
+5. **Scripted rescue and reward:** a cub reacts and runs to safety, progress increases from N/5 to N+1/5, a short triumphant stinger plays, and a unique reward is revealed.
+6. **Return to jogging:** the camera resumes smoothly toward a recognizable next landmark.
+
+### Visual treatment
+- Cinematic African-inspired landscapes with consistent realism and distinct memorable landmarks.
+- Disciplined, game-quality HUD: compact objective, 5-cub indicator, optional distance/time marker, location title on transitions; no intrusive or constantly flashing icons.
+- Carefully staged wildlife with original realistic lion cubs and hyenas. Animals must never look like 2D stickers.
+- Pacing built for at-home jogging in place: transitions from run to exercise stop must be gradual; no sudden turns, camera shakes, or simulated falls.
+- A linear video has no branching or input validation; every rescue happens on the timeline whether the viewer follows the movement or not. Do not misrepresent this.
+
+### Creative quality gate
+Before scaling to long-form, produce a complete 20–30 second **gameplay-like slice** with visible objective, cinematic run, a unique encounter, stationary guided movement and satisfying visual reward. Test readability and visual excitement on a phone and large screen; revise until the slice feels substantially more compelling than generic scenic running footage.
