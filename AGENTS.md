@@ -30,3 +30,14 @@ A real cloud GPU workstation runs Unreal Engine and outputs a continuous 10–15
 - scripts/: tooling and validations
 - unreal/: Unreal project and automation (as available)
 - infrastructure/: IaC and deployment guides
+
+## Gameplay-first video principle (highest creative priority)
+This is a LINEAR, PRE-RENDERED VIDEO designed to FEEL LIKE an immersive videogame. Prioritize compelling visuals, pacing, guided actions, game HUD and clear feedback rather than simulating an interactive engine unnecessarily.
+- A restrained but attractive in-world HUD may show **Cubs 0/5**, objective markers, mission prompts, timers, collectible discoveries, and success animations.
+- Create a visual hook in the first 5 seconds: movement, visible objective and a visually spectacular environment.
+- Introduce new visual, narrative, or gameplay-like beats frequently; maintain comfort and continuity for jogging in place.
+- Use cinematic, scripted events: the hyenas can chase, cubs react and rescues trigger on a timed beat. **Never imply the video senses viewer actions or changes outcomes based on their movement**.
+- During the exercise prompt, pause the virtual run and give an adequate on-screen countdown; resumption is automatic.
+- The five rescues must differ visually (route, animal behavior, challenge, setting, sound and reward), with consistent original characters.
+- Avoid cheap HUD overlays, generic repetitive scenery and abrupt camera movements. Target a premium playable-video aesthetic, not passive scenery footage.
+- Judge each draft scene by: (1) wow factor, (2) clarity of mission, (3) comfortable running cadence, (4) reward/feedback, (5) narrative progression.
