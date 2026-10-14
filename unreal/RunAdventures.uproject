@@ -20,10 +20,6 @@
     {
       "Name": "SequencerScripting",
       "Enabled": true
-    },
-    {
-      "Name": "CinematicCamera",
-      "Enabled": true
     }
   ]
 }
